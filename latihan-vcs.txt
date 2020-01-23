@@ -1,1 +1,2 @@
 Halo saya sedang belajar git
+Hai ini adalah baris kedua yang saya tambahkan pada file text ini
