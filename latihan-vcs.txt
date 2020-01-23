@@ -1,3 +1,3 @@
 Halo saya sedang belajar git
 Hai ini adalah baris kedua yang saya tambahkan pada file text ini, selamat membaca
-Hai ini baris ketiga yang saya tulis
+Ini adalah baris ketiga
